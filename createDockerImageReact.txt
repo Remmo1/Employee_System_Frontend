@@ -1,0 +1,2 @@
+docker build -t employee-app-full-stack-react:0.0.1-SNAPSHOT .
+
